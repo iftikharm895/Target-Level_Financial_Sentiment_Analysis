@@ -3,8 +3,7 @@
 This research project delves into target-level financial sentiment analysis, focusing on news headlines pertaining to prominent stock companies such as Amazon, Netflix, Nvidia, and Alphabet. The study evaluates the effectiveness of traditional sentiment analysis techniques in comparison with advanced large language models. By leveraging a meticulously curated dataset sourced from the Bloomberg Terminal, the project seeks to deepen our understanding of how sentiment expressed in financial news can impact market perceptions and investor decisions.
 
 ## Dataset Description
-The dataset is dedicated to the sentiment analysis of financial news headlines that concern major stock companies, including Amazon, Netflix, Nvidia, and Alphabet. These headlines have been carefully collected from the Bloomberg Terminal.
-Data Annotation: Each headline has been manually scored for a target-level sentiment analysis task by three annotators, following a set of comprehensive guidelines provided to them.
+The dataset is dedicated to the sentiment analysis of financial news headlines that concern major stock companies, including Amazon, Netflix, Nvidia, and Alphabet. These headlines have been collected from the Bloomberg Terminal. Each headline has been manually scored for a target-level sentiment analysis task by three annotators, following a set of comprehensive guidelines provided to them.
 ### Dataset Structure:
 •	Data Format: CSV
 •	Columns:
