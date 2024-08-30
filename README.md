@@ -11,6 +11,6 @@ o	Publishing Date: The date on which the headline was published.
 o	Publishing Time: The exact time at which the headline was published.  
 o	Target-Company: The company to which the sentiment analysis is directed.  
 o	URL: The direct URL to the full news article.  
-o	Manually Assigned Sentiment Score: Indicates the assessed sentiment directed towards the target company.  
+o	Manual: The manually assigned sentiment score reflects the evaluated sentiment directed toward the target company 
 
 
