@@ -5,8 +5,8 @@ This research project delves into target-level financial sentiment analysis, foc
 ## Dataset Description
 The dataset is dedicated to the sentiment analysis of financial news headlines that concern major stock companies, including Amazon, Netflix, Nvidia, and Alphabet. These headlines have been collected from the Bloomberg Terminal. Each headline has been manually scored for a target-level sentiment analysis task by three annotators, following a set of comprehensive guidelines provided to them.
 ### Dataset Structure:
-•	Data Format: CSV  
-•	Columns:  
+#### • Data Format: CSV  
+#### •	Columns:  
 o	Publishing Date: The date on which the headline was published.  
 o	Publishing Time: The exact time at which the headline was published.  
 o	Target-Company: The company to which the sentiment analysis is directed.  
