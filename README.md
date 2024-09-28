@@ -1,4 +1,5 @@
-# Target-Level Financial Sentiment Analysis: A Comparative Study of Traditional Methods and Advanced Large Language Models
+# On the use of LLMs for Target-Level Financial Sentiment Analysis
+
 ## Project Summary
 This research project delves into target-level financial sentiment analysis, focusing on news headlines pertaining to prominent stock companies such as Amazon, Netflix, Nvidia, and Alphabet. The study evaluates the effectiveness of traditional sentiment analysis techniques in comparison with advanced large language models. By leveraging a meticulously curated dataset sourced from the Bloomberg Terminal, the project seeks to deepen our understanding of how sentiment expressed in financial news can impact market perceptions and investor decisions.
 
@@ -13,4 +14,5 @@ o	Target-Company: The company to which the sentiment analysis is directed.
 o	URL: The direct URL to the full news article.  
 o	Manual: The manually assigned sentiment score reflects the evaluated sentiment directed toward the target company 
 
-
+## Annotation Guidelines
+The guidelines, which are provided to the annotators, detail the tasks required for target-level annotation. 
