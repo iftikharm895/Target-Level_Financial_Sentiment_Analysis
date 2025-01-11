@@ -1,4 +1,4 @@
-# On the use of LLMs for Target-Level Financial Sentiment Analysis
+# On Assessing the Performance of LLMs for Target-Level Sentiment Analysis in Financial News Headlines
 
 ## Project Summary
 This research project delves into target-level financial sentiment analysis, focusing on news headlines pertaining to prominent stock companies such as Amazon, Netflix, Nvidia, and Alphabet. The study evaluates the effectiveness of traditional sentiment analysis techniques in comparison with advanced large language models. By leveraging a meticulously curated dataset sourced from the Bloomberg Terminal, the project seeks to deepen our understanding of how sentiment expressed in financial news can impact market perceptions and investor decisions.
